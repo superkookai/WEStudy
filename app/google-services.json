@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "770988507447",
+    "firebase_url": "https://westudyservice-default-rtdb.firebaseio.com",
+    "project_id": "westudyservice",
+    "storage_bucket": "westudyservice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770988507447:android:795a70afd5f61cef975ab2",
+        "android_client_info": {
+          "package_name": "com.superkookai.westudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770988507447-2q0tq7lea6mptkv3ti6fs7iaisgn6qqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0cD52txQDPxXdQ1MsJOWc7J1IQKJ17EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770988507447-2q0tq7lea6mptkv3ti6fs7iaisgn6qqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
